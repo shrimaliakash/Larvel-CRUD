@@ -1,6 +1,6 @@
 Clone this url in local folder. Then step following commnads to run project
 
-cd blog		
+cd Larvel-CRUD		
 
 php artisan migrate
 
