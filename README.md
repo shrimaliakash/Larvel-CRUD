@@ -2,6 +2,8 @@ Clone this url in local folder. Then step following commnads to run project
 
 cd Larvel-CRUD		
 
+composer update
+
     copy .env.example file
 
     create one file calles .env
