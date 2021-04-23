@@ -6,7 +6,7 @@ composer update
 
     copy .env.example file
 
-    create one file calles .env
+    create one file called .env
 
     go to phpMyAdmin create one database called blog
 
